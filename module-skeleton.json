@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-e-invoicing-dart-desktop",
+  "capabilityKey": "liberusoftware/module-accounting-e-invoicing",
+  "presentation": "dart-desktop",
+  "package": "module_accounting_e_invoicing_dart_desktop",
+  "foundation": "module-boilerplate-dart-desktop",
+  "foundationCommit": "5ccb3f077d7279dad684f2aa24e4c9d27f0d1246",
+  "canonicalPlan": "projects/accounting/nextjs/e-invoicing.md",
+  "presentationPlan": "projects/accounting/features/e-invoicing.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
